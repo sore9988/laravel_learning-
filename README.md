@@ -14,6 +14,7 @@ Laravel learning to build a shopping cart website
 2.安裝 Laravel套件
 composer global require "laravel/installer"
 
-3.建立Laravel專案
+3.建立Laravel專案-blog
 composer create-project --prefer-dist laravel/laravel blog
 
+4.於專案路徑 run server : php artisan serve
